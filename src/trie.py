@@ -121,6 +121,6 @@ def __debuggingDict() -> None: # função de debugging que mostra o esquema da a
     return
 
 def clear() -> None:
-    __trie.clear(
+    __trie.clear()
 
 ####
